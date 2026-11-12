@@ -1,0 +1,277 @@
+{
+  "archive": "作业5_局域网聊天室_提交包.rar",
+  "bytes": 16164702,
+  "method": "RAR5 Store",
+  "files": [
+    {
+      "path": "作业5_局域网聊天室/.gitignore",
+      "bytes": 36,
+      "sha256": "90eb89e1667e2e956f88fc10381ee6e3c798408221f5597f31a42289250b79da"
+    },
+    {
+      "path": "作业5_局域网聊天室/bin/chat_server.exe",
+      "bytes": 3624270,
+      "sha256": "8e9a58d53c86a33c0c8783ec9f4f989c2965d5db75960a5545927cca9844651b"
+    },
+    {
+      "path": "作业5_局域网聊天室/build_server.bat",
+      "bytes": 588,
+      "sha256": "ad21eafd5e2dae923357f8003dbfeceb71591c0749510a34f34ce73aba89a497"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/artifact.md",
+      "bytes": 1760,
+      "sha256": "cd35079f7867ee16ea4124c130c243f8f5f894687319760ce9fb73bf128d032c"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/screenshots/TCP补发.png",
+      "bytes": 294838,
+      "sha256": "974d4787d91b4779ac6cf631e2b791ddd4c7163d0d112a5dc1a98bfc64fd6418"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/screenshots/定向隔离.png",
+      "bytes": 205994,
+      "sha256": "31b3f0f904cd7c8a5e9320406deef32b94c4a673eb30014dd310b4b0102df0e9"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/screenshots/异常拒绝.png",
+      "bytes": 197305,
+      "sha256": "22880cd557776ce8981c3bd9744fcccd2dc27ebe2ce8b20fdb822cbcf1ba2667"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/screenshots/服务器.png",
+      "bytes": 120172,
+      "sha256": "51d2ae53a3e41fe099a1f8f009ec5897ce0322b060069017a42e2ea812cb6f4e"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/screenshots/服务器日志.png",
+      "bytes": 209069,
+      "sha256": "09990b68bbf1cc8afae7d7e3dae0befa1600bff99982a5a20ba9cde88d1eaed9"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/screenshots/群聊.png",
+      "bytes": 163018,
+      "sha256": "d462479044f9994f4f8e1f1d4a189711fee5544aa5906caa93d89b4a2181b608"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/协议设计.md",
+      "bytes": 11950,
+      "sha256": "026c869aaea698c44c161eb08d25176f556153b85ecfb9d4726895ee3ccea1e2"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/参考模板.docx",
+      "bytes": 106035,
+      "sha256": "e0afcf22f388f7fa32c1b93d216f2db49a629364deae2a213f6dab814ebb52de"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/参考模板.pdf",
+      "bytes": 291106,
+      "sha256": "b8d29988cb05c2d9ee70e6b395163cb2f2088a6d3fa05a76df83426dcb449612"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/封面像素验证.json",
+      "bytes": 409,
+      "sha256": "b906f5195d6951b6393d2ec5ee659a6c700aa10e16c3cba07c67df3a9d9e92de"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/模板保留说明.md",
+      "bytes": 1760,
+      "sha256": "cd35079f7867ee16ea4124c130c243f8f5f894687319760ce9fb73bf128d032c"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/模板结构验证.json",
+      "bytes": 354,
+      "sha256": "2483fe8c0b62437d1d663d637b047d4d0162b85d315fbdfc2233e670eabe0b9f"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/测试结果.txt",
+      "bytes": 1607,
+      "sha256": "05dffd77d55363f221f1af8553504f5bf043f2392ada330fb82249e237bdbc32"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/演示实测记录.json",
+      "bytes": 5496,
+      "sha256": "ed34c2a1d13be46ac7d43d48f2c087b5bcb5ca418af119e316290f539daec2ad"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/演示时间轴.json",
+      "bytes": 3432,
+      "sha256": "9882bed63a4486166755414ecb60b251b3809dcba7df6c2138799a2c1d95cfd0"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/系统结构.png",
+      "bytes": 106212,
+      "sha256": "83c118a06d8e310a80e32bf2fbd16e0c2a3c384cdb90a31e64ad79509428c041"
+    },
+    {
+      "path": "作业5_局域网聊天室/docs/视频验收.json",
+      "bytes": 321,
+      "sha256": "cb05b0abd423113609774ef13196efc4cbbc302c95cd29ebb8ac437d6b5b55b7"
+    },
+    {
+      "path": "作业5_局域网聊天室/lan_chat/__init__.py",
+      "bytes": 72,
+      "sha256": "c08adbbc3b59dd0934652b25f87336be735d0ab92ee1b2f1807945a227015a7a"
+    },
+    {
+      "path": "作业5_局域网聊天室/lan_chat/__main__.py",
+      "bytes": 30,
+      "sha256": "40bf6a4313b3c95f44c745748ed4fdade699b842c4a04123fced3a4699fe9b48"
+    },
+    {
+      "path": "作业5_局域网聊天室/lan_chat/client.py",
+      "bytes": 6136,
+      "sha256": "dc0463d821836e2a97c3ae2794c929318b6d001bf7c24b7f365370e9ef2df520"
+    },
+    {
+      "path": "作业5_局域网聊天室/lan_chat/gui.py",
+      "bytes": 16440,
+      "sha256": "da94d19cb9a183f12cdc339e6643c63c66d95001082627b602dbbb818828605a"
+    },
+    {
+      "path": "作业5_局域网聊天室/lan_chat/native_server.py",
+      "bytes": 2262,
+      "sha256": "c365eb748b07edab0b69890a5bf526c326f3cbdb1afbee66199e290b114e0300"
+    },
+    {
+      "path": "作业5_局域网聊天室/lan_chat/protocol.py",
+      "bytes": 3358,
+      "sha256": "09f7156dea51ce44890b183d41f0f7b5d79d35702250e498a2ec92c19c82a9eb"
+    },
+    {
+      "path": "作业5_局域网聊天室/README.md",
+      "bytes": 13803,
+      "sha256": "3abd54857f568b6eb4fb5b960e6b8c05474b9fa0191b867e06205edd7059974c"
+    },
+    {
+      "path": "作业5_局域网聊天室/server_cpp/main.cpp",
+      "bytes": 24153,
+      "sha256": "e03fb877455bf71ad2d09f6f2d2e3c02dce7f74b67c3d7eeb4e34dd46de61b03"
+    },
+    {
+      "path": "作业5_局域网聊天室/server_cpp/vendor/json.hpp",
+      "bytes": 919975,
+      "sha256": "9bea4c8066ef4a1c206b2be5a36302f8926f7fdc6087af5d20b417d0cf103ea6"
+    },
+    {
+      "path": "作业5_局域网聊天室/server_cpp/vendor/LICENSE.MIT",
+      "bytes": 1076,
+      "sha256": "86b998c792894ccb911a1cb7994f7a9652894e7a094c0b5e45be2f553f45cf14"
+    },
+    {
+      "path": "作业5_局域网聊天室/start.bat",
+      "bytes": 81,
+      "sha256": "3138536e2228bcc06fb347b2d2a00287f0319fa57012bcc28ddfee43bd0bcf26"
+    },
+    {
+      "path": "作业5_局域网聊天室/start_server.bat",
+      "bytes": 85,
+      "sha256": "ca1a3e6ae6f3dcd97e6c37ae52b68eda8d7f97c051748771d22f207535b7fc40"
+    },
+    {
+      "path": "作业5_局域网聊天室/tests/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "作业5_局域网聊天室/tests/test_chat.py",
+      "bytes": 10634,
+      "sha256": "c03232820da9432ba92dc301fe456673353f9b8305276c1b2e2f7c65c72e4086"
+    },
+    {
+      "path": "作业5_局域网聊天室/THIRD_PARTY_NOTICES.md",
+      "bytes": 878,
+      "sha256": "c986df64c12196f2a93170b587336f10317e17678e2b87e8da8061a1c58b6e4d"
+    },
+    {
+      "path": "作业5_局域网聊天室/tools/build_presentation.py",
+      "bytes": 34301,
+      "sha256": "a65f5b1687fec5b69f9c83707aaece27ff810dc121406bc45dc039f0af125a37"
+    },
+    {
+      "path": "作业5_局域网聊天室/tools/build_report.py",
+      "bytes": 36660,
+      "sha256": "9f8b38c3321a65f88900bc7c4e875da7f47785ca289a253994c5d6bf3cdbd76a"
+    },
+    {
+      "path": "作业5_局域网聊天室/tools/demo.py",
+      "bytes": 12820,
+      "sha256": "50de637c854d47697c1ce1e28e3078f92e9980a36158b608ffc8cf6d6f9ae76e"
+    },
+    {
+      "path": "作业5_局域网聊天室/tools/demo_segments.json",
+      "bytes": 2425,
+      "sha256": "a7b0813eed47b377b27f43b5c9593ef02bf86e794008d700ffc13fe3caa9c7b0"
+    },
+    {
+      "path": "作业5_局域网聊天室/tools/export_word_formats.py",
+      "bytes": 1085,
+      "sha256": "a5a8587b78c0d04d3a754d0446f5f5804ff07e1eb2d2be4069933f2625414c52"
+    },
+    {
+      "path": "作业5_局域网聊天室/tools/make_narration.ps1",
+      "bytes": 871,
+      "sha256": "0f3b307160dd59a5140115b21ba71ec69efc38882cdf2e91847c6f464c4fcfa8"
+    },
+    {
+      "path": "作业5_局域网聊天室/tools/package_submission.py",
+      "bytes": 3648,
+      "sha256": "101962905d01dc7ac0cff3349080ed7cefd7fdfb301ef41c8ce80133777d7fa9"
+    },
+    {
+      "path": "作业5_局域网聊天室/tools/verify_media.py",
+      "bytes": 2297,
+      "sha256": "f1c4b817029b514c2b24691ba67613be21d5f229c487e7b3e39035847316de68"
+    },
+    {
+      "path": "作业5_局域网聊天室/tools/verify_report.py",
+      "bytes": 2541,
+      "sha256": "025d1deee98d73c5bf3172ff8831bacfc89edd0594d022620e340e1d9825d921"
+    },
+    {
+      "path": "作业5_局域网聊天室/局域网聊天室课程设计报告.doc",
+      "bytes": 987648,
+      "sha256": "09a3060c393cd4227eaa18d64e3bc998e46972665924c70317c128ff914148e4"
+    },
+    {
+      "path": "作业5_局域网聊天室/局域网聊天室课程设计报告.docx",
+      "bytes": 794551,
+      "sha256": "4b3d26b60a3773c57e3e306af167a42ed1ec2be7efcfd8af12fb51d1e4bfbaf9"
+    },
+    {
+      "path": "作业5_局域网聊天室/局域网聊天室课程设计报告.pdf",
+      "bytes": 5156548,
+      "sha256": "b09bdf1233b22c893146e8d61ad0761174d0a016b6daf86c8db7665607f4f7ce"
+    },
+    {
+      "path": "作业5_局域网聊天室/局域网聊天室课程设计答辩.pdf",
+      "bytes": 542269,
+      "sha256": "47a1bc3e0b8156280cf0937d292cee2f6be7e30de7a62f6ae76ff8c7120689d4"
+    },
+    {
+      "path": "作业5_局域网聊天室/局域网聊天室课程设计答辩.pptx",
+      "bytes": 60929,
+      "sha256": "40c9981a832dc428c4e67ec28843a1e4587d2bf7d7a5ec75c8534f8b48010525"
+    },
+    {
+      "path": "作业5_局域网聊天室/提交前检查.md",
+      "bytes": 5878,
+      "sha256": "cb2d5151980821899586bc996fc592ae4b7e125bc13bd8157628b81b4cac12a0"
+    },
+    {
+      "path": "作业5_局域网聊天室/演示字幕.srt",
+      "bytes": 2304,
+      "sha256": "221cd86f58becef219d2da0d643219446e05bc0a3841117f824106173cc00a93"
+    },
+    {
+      "path": "作业5_局域网聊天室/演示视频.mp4",
+      "bytes": 2049517,
+      "sha256": "712530de1878c590389753c02e3cf0c221f57ee471ebada5cb08e49d01a122d6"
+    },
+    {
+      "path": "作业5_局域网聊天室/课程设计报告书-模版(1).doc",
+      "bytes": 119808,
+      "sha256": "cc21c4f54b5604bc3194d51542c3d285ae6986b418da5cbf6c47650836620198"
+    }
+  ]
+}

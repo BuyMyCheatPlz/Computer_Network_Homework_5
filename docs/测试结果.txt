@@ -1,0 +1,17 @@
+test_04_register_login_password_and_persistence (tests.test_chat.NativeIntegrationTests.test_04_register_login_password_and_persistence) ... ok
+test_05_real_multicast_chinese_and_dedup (tests.test_chat.NativeIntegrationTests.test_05_real_multicast_chinese_and_dedup) ... ok
+test_06_selected_multiple_recipient_isolation (tests.test_chat.NativeIntegrationTests.test_06_selected_multiple_recipient_isolation) ... ok
+test_07_multicast_loss_tcp_repair (tests.test_chat.NativeIntegrationTests.test_07_multicast_loss_tcp_repair) ... ok
+test_08_invalid_task_and_corruption_recover (tests.test_chat.NativeIntegrationTests.test_08_invalid_task_and_corruption_recover) ... ok
+test_09_fragmented_and_coalesced_tcp_frames (tests.test_chat.NativeIntegrationTests.test_09_fragmented_and_coalesced_tcp_frames) ... ok
+test_10_malformed_packet_and_oversized_frame (tests.test_chat.NativeIntegrationTests.test_10_malformed_packet_and_oversized_frame) ... ok
+test_11_bad_body_replay_and_roster_on_disconnect (tests.test_chat.NativeIntegrationTests.test_11_bad_body_replay_and_roster_on_disconnect) ... ok
+test_12_database_survives_restart (tests.test_chat.NativeIntegrationTests.test_12_database_survives_restart) ... ok
+test_01_chinese_utf8_roundtrip (tests.test_chat.ProtocolTests.test_01_chinese_utf8_roundtrip) ... ok
+test_02_tampering_detected (tests.test_chat.ProtocolTests.test_02_tampering_detected) ... ok
+test_03_malformed_envelopes (tests.test_chat.ProtocolTests.test_03_malformed_envelopes) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 2.691s
+
+OK
