@@ -1,4 +1,55 @@
-__pycache__/
-*.pyc
+# ========================================================
+# 计算机网络大作业 Git 忽略配置 (.gitignore)
+# ========================================================
+
+# 1. 办公文档与提交归档包 (不追踪 docx, doc, pdf, pptx, rar 等二进制文档)
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.pdf
+*.rar
+*.zip
+*.7z
+
+# 2. 视频、音频等多媒体大文件
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.srt
+*.wav
+*.mp3
+docs/demo_audio/
+tools/media_runtime/
+
+# 3. 测试与验证生成物、临时日志
+docs/verification/
+docs/测试结果.txt
+docs/录屏验证日志.txt
+docs/封面像素验证.json
+docs/提交包清单.json
+docs/模板结构验证.json
+docs/视频验收.json
+docs/演示实测记录.json
+docs/演示时间轴.json
+
+# 4. 运行时生成数据与 Python 缓存
 data/
 demo_data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 5. IDE 配置与操作系统临时文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Thumbs.db
+Desktop.ini
